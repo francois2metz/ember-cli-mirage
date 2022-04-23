@@ -27,15 +27,3 @@
 /package.json.ember-try
 /package-lock.json.ember-try
 /yarn.lock.ember-try
-
-# custom
-.floo
-_site
-jekyll-tmp
-
-# IDE
-/.idea/
-/*.iml
-
-### macOS ###
-*.DS_Store
