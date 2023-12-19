@@ -120,9 +120,6 @@
     "@ember/test-helpers": {
       "optional": true
     },
-    "@ember-data/model": {
-      "optional": true
-    },
     "ember-data": {
       "optional": true
     },
