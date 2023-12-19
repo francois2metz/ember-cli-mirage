@@ -110,7 +110,6 @@
     "webpack": "^5.88.2"
   },
   "peerDependencies": {
-    "@ember-data/model": "*",
     "@ember/test-helpers": "*",
     "ember-data": "*",
     "ember-qunit": "*",
